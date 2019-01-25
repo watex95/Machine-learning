@@ -1,2 +1,2 @@
-# Machine-learning
-machine learning with R 
+# Machine-learning with python
+machine learning with pytho 
